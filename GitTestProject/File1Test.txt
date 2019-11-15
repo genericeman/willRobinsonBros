@@ -1,3 +1,4 @@
 ﻿//This is a test of Git features//
 
 
+This is a new line, previous version did not have this line
