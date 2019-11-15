@@ -11,5 +11,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="File1Test.txt" />
+    <None Include="EmptyXmlFile.xml" />
   </ItemGroup>
 </Project>
